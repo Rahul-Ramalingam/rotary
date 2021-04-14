@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "198455489712",
+    "firebase_url": "https://rotary-5244c.firebaseio.com",
+    "project_id": "rotary-5244c",
+    "storage_bucket": "rotary-5244c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198455489712:android:485b442d7eb0f376f87775",
+        "android_client_info": {
+          "package_name": "com.example.rotary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198455489712-nmujf6ooapbe39qbmj8jk6akpa8fdcg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYn6gxtJgRZh-r2PjmbzsR5f0aSie7ino"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198455489712-nmujf6ooapbe39qbmj8jk6akpa8fdcg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
